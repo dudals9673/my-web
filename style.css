@@ -71,8 +71,8 @@ header .lead {
 
 /* 중앙 흰색 영역 (밥 주변) */
 .rect-center-white {
-    width: 60%; 
-    height: 60%;
+    width: 40%; 
+    height: 40%;
     background-color: white; 
     border-radius: 8px;
     
@@ -126,7 +126,7 @@ header .lead {
 /* 4번 시금치 (좌측 중앙) */
 .menu-item-4 {
     top: 50%;
-    left: -70px; /* 남색 영역 바깥으로 띄움 */
+    left: -50px; /* 남색 영역 바깥으로 띄움 */
     transform: translateY(-50%); /* 수직 중앙 정렬 */
 }
 
