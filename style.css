@@ -112,7 +112,7 @@ header .lead {
 /* 2번 고등어 구이 (우측 중앙) */
 .menu-item-2 {
     top: 50%;
-    right: -70px; /* 남색 영역 바깥으로 띄움 */
+    right: -50px; /* 남색 영역 바깥으로 띄움 */
     transform: translateY(-50%); /* 수직 중앙 정렬 */
 }
 
